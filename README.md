@@ -59,6 +59,6 @@ O objetivo é implementar classes de funcionários e operações de gerenciament
 ## 🙋 Autor
 
 👤 **Glaucia Andare**  
-📧 [glauciaandare@gmail.com](mailto:glauciaandare@gmail.com)  
+📧 [glauciaandare@gmail.com](mailto:gandare@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/glauciaandare/)
 
